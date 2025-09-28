@@ -11,6 +11,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 # 📊 Data
-[![wakatime](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116.svg)](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db/project/44e3a163-8367-4287-ab1d-3bf9808aa116)
+[![wakatime](https://wakatime.com/badge/user/b604fa8a-3a51-43d9-88d7-01d18ffcc9db.svg)](https://wakatime.com/@b604fa8a-3a51-43d9-88d7-01d18ffcc9db)
 #####
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soap-0020&layout=compact&theme=dark)
