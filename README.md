@@ -3,7 +3,8 @@
 - 🇬🇧 Lives in the UK
 
 # Current Projects
-- [Investment Capital Backend](https://github.com/Investment-Capital/backend)
+- [Investment Capital Backend](https://github.com/Investment-Capital/backend) ✔️
+- [Investment Capital Library](https://github.com/Investment-Capital/library)️
 - [Value list example/template](https://github.com/Soap-0020/value-list-example)
 
 # 💻 Languages
