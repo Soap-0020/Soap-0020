@@ -5,7 +5,7 @@
 # Current Projects
 - [Investment Capital Backend](https://github.com/Investment-Capital/backend) ✔️
 - [Investment Capital Library](https://github.com/Investment-Capital/library) ✔️
-️- [Investment Capital Website](https://github.com/Investment-Capital/website)
+- [Investment Capital Website](https://github.com/Investment-Capital/website)
 - [Value list example/template](https://github.com/Soap-0020/value-list-example)
 
 # 💻 Languages
