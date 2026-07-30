@@ -1,7 +1,3 @@
-# 👋 About Me 
-- ✅ Currently working on many projects
-- 🇬🇧 Lives in the UK
-
 # Current Projects
 - [Investment Capital Backend](https://github.com/Investment-Capital/backend) 
 - [Investment Capital Library](https://github.com/Investment-Capital/library) 
